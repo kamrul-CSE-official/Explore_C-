@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("test.ts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b69a1998bda54035bc0ca4b30d0380bb29e841a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f45aa2d809010cbcc72f4767ebcbd1fb7fb208b")]
 [assembly: System.Reflection.AssemblyProductAttribute("test.ts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("test.ts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
