@@ -1,0 +1,15 @@
+E:\Programming\C#\learn_C#\test.ts\bin\Debug\net8.0\test.ts.exe
+E:\Programming\C#\learn_C#\test.ts\bin\Debug\net8.0\test.ts.deps.json
+E:\Programming\C#\learn_C#\test.ts\bin\Debug\net8.0\test.ts.runtimeconfig.json
+E:\Programming\C#\learn_C#\test.ts\bin\Debug\net8.0\test.ts.dll
+E:\Programming\C#\learn_C#\test.ts\bin\Debug\net8.0\test.ts.pdb
+E:\Programming\C#\learn_C#\test.ts\obj\Debug\net8.0\test.ts.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C#\learn_C#\test.ts\obj\Debug\net8.0\test.ts.AssemblyInfoInputs.cache
+E:\Programming\C#\learn_C#\test.ts\obj\Debug\net8.0\test.ts.AssemblyInfo.cs
+E:\Programming\C#\learn_C#\test.ts\obj\Debug\net8.0\test.ts.csproj.CoreCompileInputs.cache
+E:\Programming\C#\learn_C#\test.ts\obj\Debug\net8.0\test.ts.sourcelink.json
+E:\Programming\C#\learn_C#\test.ts\obj\Debug\net8.0\test.ts.dll
+E:\Programming\C#\learn_C#\test.ts\obj\Debug\net8.0\refint\test.ts.dll
+E:\Programming\C#\learn_C#\test.ts\obj\Debug\net8.0\test.ts.pdb
+E:\Programming\C#\learn_C#\test.ts\obj\Debug\net8.0\test.ts.genruntimeconfig.cache
+E:\Programming\C#\learn_C#\test.ts\obj\Debug\net8.0\ref\test.ts.dll
