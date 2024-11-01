@@ -1,0 +1,10 @@
+E:\Programming\C#\kamrul_database\kamrul_database\bin\Debug\kamrul_database.exe.config
+E:\Programming\C#\kamrul_database\kamrul_database\bin\Debug\kamrul_database.exe
+E:\Programming\C#\kamrul_database\kamrul_database\bin\Debug\kamrul_database.pdb
+E:\Programming\C#\kamrul_database\kamrul_database\obj\Debug\kamrul_database.csproj.AssemblyReference.cache
+E:\Programming\C#\kamrul_database\kamrul_database\obj\Debug\kamrul_database.Form1.resources
+E:\Programming\C#\kamrul_database\kamrul_database\obj\Debug\kamrul_database.Properties.Resources.resources
+E:\Programming\C#\kamrul_database\kamrul_database\obj\Debug\kamrul_database.csproj.GenerateResource.cache
+E:\Programming\C#\kamrul_database\kamrul_database\obj\Debug\kamrul_database.csproj.CoreCompileInputs.cache
+E:\Programming\C#\kamrul_database\kamrul_database\obj\Debug\kamrul_database.exe
+E:\Programming\C#\kamrul_database\kamrul_database\obj\Debug\kamrul_database.pdb
